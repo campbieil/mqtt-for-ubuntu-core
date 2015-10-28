@@ -7,7 +7,7 @@ icon: ./icons/Paho.png
 
 binaries:
  mqttpublish: 
-  exec: python3 bin/mqttpublish
+  exec: bin/mqttpublish
 
 parts:
  mqtt:
